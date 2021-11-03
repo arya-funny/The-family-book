@@ -1,10 +1,10 @@
-var images = ["https://i.postimg.cc/MGn9GJXw/family.jpg","https://i.postimg.cc/qqyYvVbq/grandpa.jpg", "https://clipground.com/images/father-wife-daughter-clipart-17.png" , "https://www.pinclipart.com/picdir/big/578-5787499_cartoon-boy-and-girl-9-years-old-clipart.png", "https://s3.eu-west-2.amazonaws.com/littlewriter-production/stories/2oyvafI2T5.jpeg", "https://clipart.world/wp-content/uploads/2021/06/Mom-and-Daughter-clipart.png"];
-var names = ["Fmaily Book","Upasrao Dhore", "Yogesh Dhore", "Arya Dhore", "Ahana Dhore", "Dipti Dhore"];
+var images = ["https://i.postimg.cc/MGn9GJXw/family.jpg","https://i.postimg.cc/qqyYvVbq/grandpa.jpg", "https://thumbs.dreamstime.com/b/story-time-grandma-illustration-grandmother-reading-to-young-boy-girl-37001072.jpg", "https://clipground.com/images/father-wife-daughter-clipart-17.png" , "https://www.pinclipart.com/picdir/big/578-5787499_cartoon-boy-and-girl-9-years-old-clipart.png", "https://s3.eu-west-2.amazonaws.com/littlewriter-production/stories/2oyvafI2T5.jpeg", "https://clipart.world/wp-content/uploads/2021/06/Mom-and-Daughter-clipart.png"];
+var names = ["Fmaily Book","Upasrao Dhore", "Sushila Dhore", "Yogesh Dhore", "Arya Dhore", "Ahana Dhore", "Dipti Dhore"];
 var i = 0;
 function update()
 {
     i++;
-    var numbers_of_family_member_in_array = 5
+    var numbers_of_family_member_in_array = 6
     if(i > numbers_of_family_member_in_array)
       {
           i = 0;
